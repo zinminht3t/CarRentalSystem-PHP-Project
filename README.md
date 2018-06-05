@@ -1,6 +1,4 @@
-# XeroCarRentalSystem_PHPProject
-
-##My Final Year Project for BSc
+# CarRentalSystem_PHPProject
 
 
 ### Installation
